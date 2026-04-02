@@ -10,6 +10,12 @@
 
 ---
 
+## Contribution:-
+- **Mahesh**: Model implementation (VAE, GAN)
+- **Lahari**: Data preprocessing
+- **Karuna**: Evaluation & analysis
+- **Hari Sai**: Documentation & presentation
+
 # 📌 Project Description
 
 This project presents a **Generative Artificial Intelligence framework** to generate **novel drug-like molecules** using deep learning models.
