@@ -9,7 +9,7 @@
 * JADA HARI SAI
 
 ---
-
+    
 ## Contribution:-
 - **Mahesh**: Model implementation (VAE, GAN)
 - **Lahari**: Data preprocessing
